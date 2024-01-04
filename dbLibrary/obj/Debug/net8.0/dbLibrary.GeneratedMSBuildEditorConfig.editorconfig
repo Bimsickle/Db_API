@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dbLibrary
-build_property.ProjectDir = C:\Users\bims\Documents\cSharp\testing\Db_API\dbLibrary\
+build_property.ProjectDir = C:\Users\bims\Documents\cSharp\testing\New folder\Db_API\dbLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
