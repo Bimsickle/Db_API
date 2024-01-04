@@ -1,0 +1,6 @@
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\bin\Debug\testdb.dacpac
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\bin\Debug\testdb.dll
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\bin\Debug\testdb.pdb
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\obj\Debug\testdb.sqlproj.AssemblyReference.cache
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\obj\Debug\testdb.dll
+C:\Users\bims\Documents\cSharp\testing\Db_API\testdb\obj\Debug\testdb.pdb
